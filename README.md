@@ -1,39 +1,50 @@
-# Hi, I'm Maximiliano Ibarra
+# Hi, I'm Maximiliano Ibarra 👋
 
-**Senior Frontend Developer | React | TypeScript | Node.js**
+### Senior Frontend Developer | React | TypeScript | Node.js
 
-I’m a Senior Frontend Developer based in Argentina with more than 15 years of experience in web development and more than 9 years working with modern JavaScript ecosystem technologies.
+Frontend-focused engineer based in Argentina with **15+ years in web development** and **9+ years working with modern JavaScript technologies**.
 
-I specialize in **React, TypeScript, and Node.js**, with previous experience in **Vue.js** and **Angular**. My background includes building web interfaces, full stack applications, REST API integrations, and product-oriented solutions in technical and corporate environments.
+I specialize in building **product-oriented web applications** with a strong focus on **React, TypeScript, Node.js, testing, code quality, and scalable architectures**.
 
-I’m especially interested in **product-focused frontend development**, **software architecture**, **code quality**, **design patterns**, **testing**, and **development methodologies**.
+---
+
+## About me
+
+- 💻 Senior Frontend Developer focused on **React + TypeScript**
+- 🧩 Background in **Node.js, Vue.js, Angular, SQL, and PostgreSQL**
+- 🏗️ Interested in **software architecture, design patterns, and clean code**
+- ✅ Experience with **testing, CI/CD, GitHub workflows, and product development**
+- 🌍 Based in Argentina, open to **100% remote opportunities**
+
+---
 
 ## Tech Stack
 
-- **Frontend:** React, TypeScript, JavaScript, Vue.js, Angular, HTML, CSS
-- **Backend:** Node.js, REST APIs
-- **Testing:** Jest, Playwright, Unit Testing, End-to-End Testing
-- **Tools & Delivery:** Git, GitHub, GitHub Actions, CI/CD
-- **Databases:** PostgreSQL, SQL
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
 
-## Professional Focus
+---
+
+## What I focus on
 
 - Product-oriented frontend development
-- Scalable and maintainable web applications
+- Scalable and maintainable applications
+- REST API integrations
+- Unit and end-to-end testing
 - Technical collaboration across teams
-- Software architecture and clean code practices
-- Frontend quality, testing, and delivery processes
+- Frontend quality and delivery processes
 
-## Experience Highlights
-
-- **15+ years** in web development
-- **9+ years** with modern JavaScript technologies
-- Experience working on **product-oriented frontend solutions**
-- Background in **React, TypeScript, Node.js, Vue.js, Angular**
-- Experience with **testing, CI/CD, GitHub workflows, and technical product environments**
+---
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/maximilianoibarra](https://linkedin.com/in/maximilianoibarra)
-- **GitHub:** [github.com/machi3mfl](https://github.com/machi3mfl)
-- **Email:** maximilianoaibarra@gmail.com
+- LinkedIn: [linkedin.com/in/maximilianoibarra](https://linkedin.com/in/maximilianoibarra)
+- GitHub: [github.com/machi3mfl](https://github.com/machi3mfl)
+- Email: **maximilianoaibarra@gmail.com**
