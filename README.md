@@ -1,4 +1,4 @@
-# Hi, I'm Maximiliano Ibarra 👋
+# Hi, I'm Maximiliano Ibarra 🤘
 
 ### Senior Frontend Developer | React | TypeScript | Node.js
 
