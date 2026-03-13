@@ -14,7 +14,6 @@ I specialize in building **product-oriented web applications** with a strong foc
 - 🧩 Background in **Node.js, Vue.js, Angular, SQL, and PostgreSQL**
 - 🏗️ Interested in **software architecture, design patterns, and clean code**
 - ✅ Experience with **testing, CI/CD, GitHub workflows, and product development**
-- 🌍 Based in Argentina, open to **100% remote opportunities**
 
 ---
 
