@@ -1,6 +1,6 @@
 # Hi, I'm Maximiliano Ibarra 🤘
 
-### Senior Frontend Developer | React | TypeScript | Node.js
+### Senior Fullstack Developer | React | TypeScript | Node.js
 
 Frontend-focused engineer based in Argentina with **15+ years in web development** and **9+ years working with modern JavaScript technologies**.
 
